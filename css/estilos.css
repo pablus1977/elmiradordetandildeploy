@@ -1,0 +1,188 @@
+* {
+	margin:5px;
+	padding:0px;
+}
+
+body{
+	background-color:#2b5555;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+a{
+	text-decoration: none;
+}
+
+
+/* cabecera */
+
+
+header{
+/*	background-color: #2a1000;
+	padding-top: 25px;
+	*/
+}
+
+
+.carousel{
+	width:100%;
+	margin:auto;
+}
+
+
+.redes{
+	text-align: right;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 47px;
+
+	vertical-align: middle;
+	color:#fff;
+	background-color: #91b66d;
+}
+	.redes a {
+		color:#fff;
+	}
+		.redes a .fa-inverse{
+			color:#2a1000;
+		}
+
+	.redes h5{
+		display:inline-block; 
+	}
+
+.imgbooking{
+	width:150px;
+}
+
+.reserva{
+	text-shadow:1px 1px #E6E6E6;
+	font-size: 25px;
+	color:black;
+	
+}
+	.reservaalto{
+		height: 40px;
+	}
+
+
+.borde{
+	/*border-style: solid;*/
+	border-style: none;
+	
+	border-width: thin;
+	border-color: #ccc
+}
+
+h1{
+	text-shadow: 3px 3px #0A2A0A;
+	text-align: right;
+	font-family: Georgia;
+	font-style: italic;
+	
+	height: 45px;
+	/*margin-right: 280px;
+	display:inline-block;
+	overflow: hidden;
+	*/
+	
+	/*background: #ccc;*/
+}
+.menu{
+	text-align: center;
+	padding:0px;
+	/*height: 40px;
+	*/
+	line-height: 10px;
+	margin: auto;
+}
+
+
+.cabecera{
+/*	margin:0px;
+	padding:0px;
+	*/
+	text-align: center;
+	display: block;
+	color:white;
+
+}
+	.cabecera h1{
+		font-size: 50px;
+		text-align: center;
+		display: inline-block;
+	}
+.sub-cab {
+	margin:0px;
+	padding:0px;
+	
+	text-align: center;
+	text-shadow:1px 1px #E6E6E6;
+	font-size: 25px;
+	color:black;
+	font-weight:bold;
+	
+}
+
+.img-cab{
+	 width:150px;
+	 height:150px;
+	 border-radius: 10px;
+	 box-shadow: 3px 3px #0A2A0A;
+}
+
+.cabecera-datos{
+	margin:0px;
+	padding:0px;
+	padding-top:0px;
+	/*height:200px;*/
+	/*background:#000;*/
+	color:white;
+	line-height: 25px;
+	margin: auto;
+	text-align:center;
+/*	vertical-align: middle;*/
+}
+
+
+
+.cartel{
+	 height: 300px;
+	 box-shadow: 3px 3px #0A2A0A;
+}
+
+
+
+
+
+.parque{
+	 height: 300px;
+	 box-shadow: 3px 3px #0A2A0A;
+}
+
+
+.pie1{
+	margin-top:35px;
+	text-align:center;
+	color:white;
+
+}
+
+.descripcion{
+	color: white;
+}
+
+.mapa {
+ 	width:750; 
+ 	height:400;
+ }
+
+ .formContacto{
+ 	color: white;
+ 	text-align: center;
+ }
+
+ .formContacto input{
+ 	width: 200px;
+ 	height: 60px;
+ }

@@ -1,0 +1,28 @@
+  {
+    "fotos": [
+    {"ubicacion" : "images/fotos/1.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/2.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/3.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/4.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/6.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/7.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/8.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/9.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/10.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/12.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/13.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/14.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/15.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/16.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/17.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/18.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/19.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/20.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/21.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/22.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/23.jpg", "alt" : ""},
+    {"ubicacion" : "images/fotos/24.jpg", "alt" : ""}
+
+	
+]
+  }
